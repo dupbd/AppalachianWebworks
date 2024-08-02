@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+/* General Reset */
+body, h1, div {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Mountain Icon */
+.img-logo {
+    max-width: 100px !important;
+}
+.u-mb0 {
+    margin-bottom: 0 !important;
+    margin-top: 10px;
+}
+#myNavbar {
+    background-color: #f7f7f7;
+    padding: 10px 10px;
+}
+
+.flexRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dark {
+    color: #777;
+}
