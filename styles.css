@@ -17,6 +17,9 @@ body, h1, div {
 .u-mt20 {
     margin-top: 20px !important;
 }
+.u-mb20 {
+    margin-bottom: 20px !important;
+}
 #myNavbar {
     background-color: #f7f7f7;
     padding: 10px 10px;
